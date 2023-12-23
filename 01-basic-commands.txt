@@ -1,0 +1,14 @@
+whoami - returns the username
+
+hostname - returns the name of the machine
+
+pwd - prints working directory
+
+cd - change directory
+
+ls - list the contents of the directory
+
+man - stands for manual used to display the manual of tools installed.
+
+info - information page for the tools installed with deep explanation.
+
