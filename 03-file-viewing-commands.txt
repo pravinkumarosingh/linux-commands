@@ -1,0 +1,17 @@
+more - more command is used to display the contents of the file on a terminal
+
+usage -> more <filename>
+
+advantage -> percentage is shown at the bottom
+disadvantage -> cannot go backward
+
+
+less -> less is more powerful and widely used command for viewing the file contents
+
+usage -> less <filename>
+
+advantage -> can search, go backward and forward
+disadvantage -> percentage is not shown.
+
+
+cat -> it is used to concatenate the files and display there contents as output however we can display even single file
