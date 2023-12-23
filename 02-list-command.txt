@@ -1,0 +1,9 @@
+ls is used for listing the directory of the contents
+
+ls -a  -> list all the files and directory even the hidden ones.
+
+ls -I <pattern> - ignores the files and directory mentioned in the pattern.
+Example ->  ls -I "files*"
+any files or directory starting with name "files" will not be listed.
+
+            ls --ignore="files*"
