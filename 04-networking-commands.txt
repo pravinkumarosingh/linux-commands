@@ -6,3 +6,6 @@ ping -n -c 4 google.com - (-n) option is used to prevent reverse dns lookup.
 
 ping -i 0.4 -c 4 google.com - (-i) option is used to specify the interval between each packets in ping command by default it is 1 second.
 								   for value less than 0.2 second root permission are required.
+
+ping -t 1 -n -c 4 google.com - (-t) option is used to get the IP address of the router number towards the destination.
+                                    example command will display the IP address of first router towards destination.
