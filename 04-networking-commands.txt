@@ -1,0 +1,8 @@
+ping command
+
+ping -c 4 google.com  -  (-c) option is used to specify the number of packets to be transmitted.
+
+ping -n -c 4 google.com - (-n) option is used to prevent reverse dns lookup.
+
+ping -i 0.4 -c 4 google.com - (-i) option is used to specify the interval between each packets in ping command by default it is 1 second.
+								   for value less than 0.2 second root permission are required.
